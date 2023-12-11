@@ -2,7 +2,12 @@ html{
   scroll-behavior: smooth;
 
 }
-
+a:hover {
+    color: black;
+}
+a {
+    color: black;
+}
 footer {
   padding: 20px;
 
